@@ -1,13 +1,13 @@
-import ToDo from './components/ToDo'
+import { Route } from 'react-router-dom';
 
+import AllMeetupsPage from './pages/AllMeetups';
+import Favorites from './pages/Favorites';
+import NewMeetup from './pages/NewMeetup';
 
 function App() {
   return (
       <div>
-          <h1>My To do's</h1>
-          <ToDo text='Taco' />
-          <ToDo text='Burger' />
-          <ToDo text='Cake' />
+          
       </div>
   );
 }
