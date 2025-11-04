@@ -7,7 +7,7 @@ export const movies = [
     rating: 8.7,
     description: "A computer programmer discovers reality is not what it seems and joins a rebellion against machines.",
     genre: "Sci-Fi",
-    image: "https://image.tmdb.org/t/p/original/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg"
+    image: "/ecommerce/images/matrix.jpg"
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ export const movies = [
     rating: 7.4,
     description: "An ex-hitman comes out of retirement to track down the gangsters who killed his dog.",
     genre: "Action",
-    image: "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/01/john-wick-franchise-poster.jpg"
+    image: "/ecommerce/images/john-wick.jpg"
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ export const movies = [
     rating: 7.3,
     description: "A young police officer must prevent a bomb exploding aboard a city bus by keeping its speed above 50 mph.",
     genre: "Action",
-    image: "https://image.tmdb.org/t/p/original/3ERzvWl6dDQtHijDnTlsaHGiDYb.jpg"
+    image: "/ecommerce/images/speed.jpg"
   },
   {
     id: 4,
@@ -37,7 +37,7 @@ export const movies = [
     rating: 7.3,
     description: "An FBI agent goes undercover to catch a gang of surfers who rob banks.",
     genre: "Action",
-    image: "https://image.tmdb.org/t/p/original/eGSfqknufcsXmM2Rb59H9SiNd4T.jpg"
+    image: "/ecommerce/images/point-break.jpg"
   },
   {
     id: 5,
@@ -47,7 +47,7 @@ export const movies = [
     rating: 6.9,
     description: "Two seemingly dumb teens struggle to prepare a historical presentation with the help of a time machine.",
     genre: "Comedy",
-    image: "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11475_p_v10_aa.jpg"
+    image: "/ecommerce/images/bill-ted.jpg"
   },
   {
     id: 6,
@@ -57,7 +57,7 @@ export const movies = [
     rating: 7.5,
     description: "A lawyer finds himself in a supernatural law firm where he must choose between ambition and morality.",
     genre: "Thriller",
-    image: "https://th.bing.com/th/id/R.cbe2e6769ad0037f1e971cfc1202facf?rik=I5xpChpeRwK7nA&pid=ImgRaw&r=0"
+    image: "/ecommerce/images/devils-advocate.jpg"
   },
   {
     id: 7,
@@ -67,7 +67,7 @@ export const movies = [
     rating: 7.0,
     description: "A man who can see demons helps a policewoman investigate her sister's mysterious suicide.",
     genre: "Horror",
-    image: "https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/11/constantine-2.jpg"
+    image: "/ecommerce/images/constantine.jpg"
   },
   {
     id: 8,
@@ -77,7 +77,7 @@ export const movies = [
     rating: 7.2,
     description: "Neo and his allies race against time as the machines discover Zion and prepare to destroy it.",
     genre: "Sci-Fi",
-    image: "https://th.bing.com/th/id/R.2306a9427f92812b006fc493dea75ec0?rik=feqfVYmMLvzMLw&pid=ImgRaw&r=0"
+    image: "/ecommerce/images/matrix-reloaded.jpg"
   },
   {
     id: 9,
@@ -87,6 +87,6 @@ export const movies = [
     rating: 7.4,
     description: "After returning to the criminal underworld, John Wick faces a large bounty on his head.",
     genre: "Action",
-    image: "https://m.media-amazon.com/images/S/pv-target-images/af173dd5a90fd936147959d7773da5dd5ac90784629b27ca2dd518392a8ad1c4.jpg"
+    image: "/ecommerce/images/john-wick-2.jpg"
   }
 ];
