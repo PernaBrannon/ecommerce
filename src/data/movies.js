@@ -7,7 +7,7 @@ export const movies = [
     rating: 8.7,
     description: "A computer programmer discovers reality is not what it seems and joins a rebellion against machines.",
     genre: "Sci-Fi",
-    image: "/ecommerce/images/matrix.jpg"
+    image: "./images/matrix.jpg"
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ export const movies = [
     rating: 7.4,
     description: "An ex-hitman comes out of retirement to track down the gangsters who killed his dog.",
     genre: "Action",
-    image: "/ecommerce/images/john-wick.jpg"
+    image: "./images/john-wick.jpg"
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ export const movies = [
     rating: 7.3,
     description: "A young police officer must prevent a bomb exploding aboard a city bus by keeping its speed above 50 mph.",
     genre: "Action",
-    image: "/ecommerce/images/speed.jpg"
+    image: "./images/speed.jpg"
   },
   {
     id: 4,
@@ -37,7 +37,7 @@ export const movies = [
     rating: 7.3,
     description: "An FBI agent goes undercover to catch a gang of surfers who rob banks.",
     genre: "Action",
-    image: "/ecommerce/images/point-break.jpg"
+    image: "./images/point-break.jpg"
   },
   {
     id: 5,
@@ -47,7 +47,7 @@ export const movies = [
     rating: 6.9,
     description: "Two seemingly dumb teens struggle to prepare a historical presentation with the help of a time machine.",
     genre: "Comedy",
-    image: "/ecommerce/images/bill-ted.jpg"
+    image: "./images/bill-ted.jpg"
   },
   {
     id: 6,
@@ -57,7 +57,7 @@ export const movies = [
     rating: 7.5,
     description: "A lawyer finds himself in a supernatural law firm where he must choose between ambition and morality.",
     genre: "Thriller",
-    image: "/ecommerce/images/devils-advocate.jpg"
+    image: "./images/devils-advocate.jpg"
   },
   {
     id: 7,
@@ -67,7 +67,7 @@ export const movies = [
     rating: 7.0,
     description: "A man who can see demons helps a policewoman investigate her sister's mysterious suicide.",
     genre: "Horror",
-    image: "/ecommerce/images/constantine.jpg"
+    image: "./images/constantine.jpg"
   },
   {
     id: 8,
@@ -77,7 +77,7 @@ export const movies = [
     rating: 7.2,
     description: "Neo and his allies race against time as the machines discover Zion and prepare to destroy it.",
     genre: "Sci-Fi",
-    image: "/ecommerce/images/matrix-reloaded.jpg"
+    image: "./images/matrix-reloaded.jpg"
   },
   {
     id: 9,
@@ -87,6 +87,6 @@ export const movies = [
     rating: 7.4,
     description: "After returning to the criminal underworld, John Wick faces a large bounty on his head.",
     genre: "Action",
-    image: "/ecommerce/images/john-wick-2.jpg"
+    image: "./images/john-wick-2.jpg"
   }
 ];
