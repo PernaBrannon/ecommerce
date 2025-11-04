@@ -2,6 +2,10 @@
 
 Welcome to The Keanu Reeves Depot - your one-stop shop for all Keanu Reeves movies! Browse through an incredible collection of films featuring the legendary actor and build your perfect movie collection.
 
+## 🌐 Live Demo
+
+**Visit the live site:** [https://pernabrannon.github.io/ecommerce](https://pernabrannon.github.io/ecommerce)
+
 ## Features
 
 - 🎭 Curated collection of Keanu Reeves movies
@@ -51,11 +55,17 @@ npm start
 
 ## Deployment
 
-This project is configured for GitHub Pages deployment:
+This project is automatically deployed to GitHub Pages:
+
+**🌐 Live Site:** [https://pernabrannon.github.io/ecommerce](https://pernabrannon.github.io/ecommerce)
+
+To deploy updates:
 
 ```bash
 npm run deploy
 ```
+
+The site will be automatically updated within a few minutes of running the deploy command.
 
 ## Available Scripts
 
